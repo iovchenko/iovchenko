@@ -1,13 +1,13 @@
 ### Hi there, I'm Gennadiy Iovchenko. 👋
 
 
-🔭 I’m currently looking for a job in data analysis  
+🔭 I’m currently looking for a job in data/product analysis  
 📫 How to reach me:  
+* [Telegram](https://t.me/malanius)  
+* [Instagram](https://instagram.com/gennadiy_iovchenko)  
+* [E-mail](mailto:iovchenko@mail.ru)
 
-[![alt text][1]][2]
 
-[1]: https://www.signumplus.ru/images/telegram2.png
-[2]: https://t.me/malanius
 
 
 <!--
@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![text][1]][2]
+
+[1]: https://static.tildacdn.com/tild6431-6261-4366-a630-323137376531/4.png
+[2]: https://t.me/malanius
 -->
