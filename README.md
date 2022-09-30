@@ -3,9 +3,13 @@
 
 🔭 I’m currently looking for a job in data analysis  
 📫 How to reach me:  
+
 [![alt text][1]][2]
-[1]: https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle-thumbnail.png
+
+[1]: https://www.signumplus.ru/images/telegram2.png
 [2]: https://t.me/malanius
+
+
 <!--
 **iovchenko/iovchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
