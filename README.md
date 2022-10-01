@@ -1,7 +1,7 @@
 ### Hi there, I'm Gennadiy Iovchenko. 👋
 
 
-🔭 I’m currently looking for a job in data/product analysis  
+🔭 I’m currently looking for a job in data/product analytics  
 📫 How to reach me:  
 * [Telegram](https://t.me/malanius)  
 * [Instagram](https://instagram.com/gennadiy_iovchenko)  
